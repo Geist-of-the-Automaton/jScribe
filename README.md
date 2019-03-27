@@ -1,5 +1,5 @@
 # jScribe
-jScribe - a simple word processor
+A word processor with convenient functions and clean UI. 
 
 I worked on this project, on and off (because of classes and work), for about 6 months now. I started it during the fall semester of my sophomore year for fun (also for experience and to learn, but mainly for fun). I used Java as it was the language I knew the most at the time and it's conveinently built-in GUI libraries made the visual aspect of the project a breeze.
 
