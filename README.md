@@ -5,5 +5,3 @@ I worked on this project, on and off (because of classes and work), for about 6 
 
 If you have any questions please email me at GeistfulAutomaton@gmail.com.
 I provided the JAR only to protect my creation as my source is really extensive(~4000 lines); I will release the source when I am out of college and safely into my career. If you are a potential employer looking to see my source for this project please contact me at the email above.
-
-I plan to move onto graphical development in C and C++ with a 2D games first and then with a renderer later (via rasterization, although I ideally want to work on ray tracing or ray marching). I would eventually like to learn more python and make a NEAT AI implementation accomplishing something.
