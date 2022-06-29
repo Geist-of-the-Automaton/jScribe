@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"jScribe_final","l":"Dictionary"},{"p":"jScribe_final","l":"jScribe"},{"p":"jScribe_final","l":"RecentDoc"},{"p":"jScribe_final","l":"SettingsBar"},{"p":"jScribe_final","l":"ShowLogo"},{"p":"jScribe_final","l":"SmallStack"},{"p":"jScribe_final","l":"Words"}]
