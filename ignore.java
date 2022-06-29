@@ -1,6 +1,0 @@
-/*
-
-I  made this file so that github will list this as a java project.
-Please see the README and JAR instead. Thanks.
-
-*/
