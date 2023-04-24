@@ -6,3 +6,5 @@ Available functions: multi-paging, select text over multiple pages, multi-tabbed
 Demo Video:  https://youtu.be/vV0wnIHP-Ww
 
 If you have any questions please email me at GeistfulAutomaton@gmail.com.
+
+![jScribeThumb](https://user-images.githubusercontent.com/44931507/233892964-14d045c1-bb3a-47f4-839f-d9dde9b7aa04.png)
